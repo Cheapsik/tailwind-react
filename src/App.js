@@ -12,7 +12,7 @@ function App() {
           <p className="font-bold text-green-500 p-2">Proggramer</p>
           <div className="h-20 w-20 rounded-full absolute top-14">
             <img
-              src="https://lh3.googleusercontent.com/proxy/b3TIpAP_LDi2uxM5KNbo9bTTKHLxyFtEBbCeR7gUMGHE1p8by9seED49tPQcLA1WjLi6SRriuRV0xj3A7M8gY1QlhHFmkm6uqLQS-JvdGdCNk4QUONmtFQugqKUGHg"
+              src="https://www.w3bai.com/w3css/img_avatar3.png"
               alt="logo"
             />
           </div>
